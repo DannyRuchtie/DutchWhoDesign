@@ -1,24 +1,3 @@
-@font-face {
-  font-family: 'Auto-bold';
-  src:url('/fonts/AutoPro-Bold.woff') format('woff');
-}
-
-
-@font-face {
-  font-family: 'Auto-black';
-  src:url('/fonts//AutoPro-Black.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Auto-italic';
-  src:url('/fonts//AutoPro-BoldItalic1.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Auto-italic-2';
-  src:url('/fonts//AutoPro-BoldItalic2.woff') format('woff');
-}
-
 html {
   box-sizing: border-box;
 }
