@@ -1,6 +1,5 @@
 # Dutch Who Design
 
-![](https://dutchwho.design/img/preview.png)
 
 The website is built using Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [Vercel](https://vercel.com/).
 
